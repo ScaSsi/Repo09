@@ -6,7 +6,7 @@ function myFunction(myParameter) {
     return "The parameter is false!";
 }
 
-myFunction(true)
+myFunction(true);
 
 console.log(myFunction(true));
 console.log(myFunction(false));
